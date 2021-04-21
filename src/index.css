@@ -19,6 +19,11 @@ input {
   padding-bottom: 20px;
 }
 
+.simple-keyboard.simple-keyboard-controller.hg-theme-default .hg-row {
+    display: flex;
+    justify-content: center;
+}
+
 .simple-keyboard.simple-keyboard-controller.hg-theme-default .hg-button {
   flex-grow: 0;
   min-width: 50px;
